@@ -52,10 +52,3 @@ flutter pub get
 flutter run
 ```
 
-## 📱 Screenshots
-
-*(Add your high-quality project screenshots here)*
-
----
-
-*Developed with ❤️ for the future of Agriculture.*
